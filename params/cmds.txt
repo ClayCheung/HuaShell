@@ -1,0 +1,2 @@
+mkdir /root/look_at_this
+ls

@@ -1,0 +1,5 @@
+# .ignore
+
+.idea
+paramiko________.log
+paramiko_upload.log

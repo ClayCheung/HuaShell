@@ -27,3 +27,7 @@ ip_list.txt  	#指定指定服务器的ip列表
     > 示例 ip_list.txt  
 
 * 命令手工输入
+
+---
+**Function Screenshot**  
+![sec](docs\img\p1.png)  
